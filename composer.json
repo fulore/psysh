@@ -1,9 +1,9 @@
 {
-    "name": "psy/psysh",
+    "name": "fulore/psysh",
     "description": "An interactive shell for modern PHP.",
     "type": "library",
     "keywords": ["console", "interactive", "shell", "repl"],
-    "homepage": "https://github.com/bobthecow/psysh",
+    "homepage": "https://github.com/fulore/psysh",
     "license": "MIT",
     "authors": [
         {
