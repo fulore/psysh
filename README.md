@@ -71,6 +71,10 @@ return array(
 );
 ```
 
+## マルチバイト文字列
+
+コンソールに表示される文字列を、エンコードしないで表示しています。
+
 ## Downloading the manual
 
 The PsySH `doc` command is great for documenting source code, but you'll need a little something extra for PHP core documentation. Download one of the following PHP Manual files and drop it in `~/.psysh/`:
